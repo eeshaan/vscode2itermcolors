@@ -1,6 +1,6 @@
 import json
-from jsoncomment import JsonComment
 import plistlib
+from jsoncomment import JsonComment
 from argparse import ArgumentParser
 
 ANSI_COLORS = {
